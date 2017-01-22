@@ -1,6 +1,8 @@
 
 Iamgif
-====
+======
+
+![alt tage](https://github.com/rahulxxarora/iamgif/blob/master/animation.gif)
 
 A Python library to convert text to a GIF.
 
