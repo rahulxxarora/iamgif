@@ -7,12 +7,11 @@ import PIL.ImageSequence
 import os
 
 
-def create(text:)
+def create(text, dir_path):
 
 	img = PIL.Image.new('RGB', (800, 800), (255, 255, 255))
 	d = PIL.ImageDraw.Draw(img)
 
-	dir_path = os.path.dirname(os.path.realpath(__file__))
 	os.mkdir(dir_path+'/tempdir')
 
 	ctr = 1
