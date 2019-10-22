@@ -1,7 +1,7 @@
 from setuptools import setup
 
 # specify requirements of your package here
-REQUIREMENTS = ['image2gif', 'Pillow==3.3.1']
+REQUIREMENTS = ['image2gif', 'Pillow==6.2.0']
 
 # some more details
 CLASSIFIERS = [
